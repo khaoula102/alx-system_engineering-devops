@@ -1,2 +1,1 @@
-#!/bin/bash \
-not empty \
+not empty 
