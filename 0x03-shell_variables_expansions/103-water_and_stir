@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(echo "$WATER$STIR" | tr 'wetratsdci' '0123456789')
+echo "$WATER$STIR"=$(echo "$result" | tr 'wetratsdci' '0123456789')
